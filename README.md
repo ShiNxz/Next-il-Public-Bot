@@ -43,8 +43,8 @@ npm start
 
 על מנת להדליק את הבוט.<br />
 
-במידה והבוט לא עובד או לשאלות נוספות ניתן לפתוח טיקט בשרת הדיסקורד ונשמח לעזור לכם :)
-https://discord.gg/nextil <br />
+במידה והבוט לא עובד או לשאלות נוספות ניתן לפתוח טיקט בשרת הדיסקורד ונשמח לעזור לכם :) <br />
+https://discord.gg/nextil
 
 # English
 
@@ -86,6 +86,6 @@ npm start
 ```
 in order to start the bot.<br />
 
-for any questions or if the bot is not working, please open a ticket in our discord server and we will be happy to help you :) <br 
+for any questions or if the bot is not working, please open a ticket in our discord server and we will be happy to help you :) <br />
 
 https://discord.gg/nextil
