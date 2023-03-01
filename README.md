@@ -14,13 +14,6 @@
 
 ולאחר מכן להוריד את הפורייקט למחשב באמצעות הכפתור "Code" -> "Download ZIP" ולפתוח את הפורייקט בכל תוכנת עריכת טקסט.<br />
 
-בתיקייה עצמה יש לפתוח חלון CMD<br />
-ולרשום את הפקודה הבאה:
-
-```cmd
-npm install
-```
-
 לאחר מכן יש לפתוח את הקובץ .env ולשנות את ההגדרות בצורה הבאה:
 
 ```env
@@ -35,13 +28,8 @@ WEBSITE_URI = "next-il.co.il"
 DEV = "FALSE" # Should be false in production
 ```
 
-לאחר שינוי ההגדרות יש לרשום ב CMD / קונסול את הפקודה הבאה:
-
-```cmd
-npm start
-```
-
-על מנת להדליק את הבוט.<br />
+לאחר מכן יש לפתוח את הקובץ `install.bat` על מנת להתקין את החבילות הדרושות על מנת להפעיל את הבוט.
+ולאחר מכן יש לפתוח את הקובץ `run.bat` על מנת להדליק את הבוט.<br />
 
 במידה והבוט לא עובד או לשאלות נוספות ניתן לפתוח טיקט בשרת הדיסקורד ונשמח לעזור לכם :) <br />
 https://discord.gg/nextil
@@ -59,11 +47,7 @@ You will need to download the following tools in order to use the bot:
 -   [Node.js](https://nodejs.org/en/)<br />
 
 After installing the tools, you will need to download the project by clicking on the "Code" button -> "Download ZIP" and open the project in any text editor.<br />
-inside the project folder, open a CMD window and type the following command:
-
-```cmd
-npm install
-```
+inside the project folder, open the `install.bat` file and wait for the installation to finish.<br />
 
 after that you will need to open the `.env.` file and change the following settings:
 
@@ -79,12 +63,7 @@ WEBSITE_URI = "next-il.co.il"
 DEV = "FALSE" # Should be "FALSE" in production
 ```
 
-After changing the settings, you will need to type the following command in CMD:
-
-```cmd
-npm start
-```
-in order to start the bot.<br />
+After changing the settings, you will need to open the `run.bat` file in order to start the bot.<br />
 
 for any questions or if the bot is not working, please open a ticket in our discord server and we will be happy to help you :) <br />
 
